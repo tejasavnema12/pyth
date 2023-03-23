@@ -5,6 +5,6 @@ def factorial(n):
 
 	return n * factorial(n-1)
 
-num = 5
+num = 8
 print("Factorial of", num, "is", factorial(num))
 
