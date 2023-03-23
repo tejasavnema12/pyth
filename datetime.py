@@ -1,7 +1,7 @@
 import datetime
 from datetime import date
 
-ct = datetime.datetime.now().timestamp()
+currenttime = datetime.datetime.now().timestamp()
 
 days = int(input("Enter number of days: ")) * 24 * 60 * 60
 
